@@ -1,13 +1,13 @@
 SpreeStockLocationInternal
 ==========================
 
-Introduction goes here.
+Set Stock Locations as internal. Use new quantifier methods to show only the external products on frontend.
 
 ## Installation
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_stock_location_internal', github: '[your-github-handle]/spree_stock_location_internal'
+  gem 'spree_stock_location_internal', github: 'praesensco/spree_stock_location_internal'
   ```
 
 2. Install the gem using Bundler:
@@ -40,11 +40,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_stock_location_internal/factories'
 ```
 
-
-## Contributing
-
-If you'd like to contribute, please take a look at the
-[instructions](CONTRIBUTING.md) for installing dependencies and crafting a good
-pull request.
-
-Copyright (c) 2018 [name of extension creator], released under the New BSD License
+Copyright (c) 2018 PRAESENS, released under the New BSD License
