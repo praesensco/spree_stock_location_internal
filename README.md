@@ -1,0 +1,1 @@
+# spree_stock_location_internal
